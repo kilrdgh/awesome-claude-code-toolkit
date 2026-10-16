@@ -1,0 +1,7 @@
+{
+  "name": "brand-kit",
+  "version": "1.0.0",
+  "description": "Create a complete brand kit with logo guidelines, color palette, typography, voice, and exportable design tokens",
+  "commands": ["commands/create-brand-kit.md", "commands/export-brand-tokens.md", "commands/brand-audit.md"],
+  "agents": ["agents/brand-designer.md"]
+}

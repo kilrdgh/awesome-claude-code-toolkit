@@ -1,7 +1,7 @@
 {
   "name": "claude-code-toolkit",
   "displayName": "Claude Code Toolkit",
-  "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 skills, 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, and 6 MCP configs.",
+  "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 skills, 42 commands, 121 plugins, 19 hooks, 15 rules, 7 templates, and 6 MCP configs.",
   "owner": { "name": "Rohit Ghumare" },
   "repository": "https://github.com/rohitg00/awesome-claude-code-toolkit",
   "license": "Apache-2.0",
@@ -93,6 +93,12 @@
       "name": "backend-architect",
       "source": "plugins/backend-architect",
       "description": "Backend service architecture design with endpoint scaffolding",
+      "version": "1.0.0"
+    },
+    {
+      "name": "brand-kit",
+      "source": "plugins/brand-kit",
+      "description": "Create a complete brand kit with logo guidelines, color palette, typography, voice, and exportable design tokens",
       "version": "1.0.0"
     },
     {
